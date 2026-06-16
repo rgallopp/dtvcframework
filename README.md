@@ -24,7 +24,7 @@ dtvcframework/
 │   └── DT_Link.mod
 └── src/
     └── baseline_logger.py
-
+```
 ---
 
 ## AAS Submodel Overview
