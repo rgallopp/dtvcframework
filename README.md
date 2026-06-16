@@ -40,7 +40,7 @@ The `CommandID` field is the linking key across all three submodels and the RAPI
 
 ---
 
-## Controller Logic — `DT_Link.mod`
+## Controller Logic 
 
 `DT_Link.mod` is an ABB RAPID module that declares Persistent Variables (PERS) corresponding to fields defined in the `MotionCommand` and `ExecutionStatus` submodels. These variables are exposed as OPC UA nodes, forming the semantic communication bridge between the DT and the virtual IRC5 controller.
 
