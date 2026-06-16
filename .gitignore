@@ -1,0 +1,25 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Environment Variables (Secrets)
+.env
+
+# IDE (VS Code)
+.vscode/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IGNORE PRIVATE LAB ASSETS AND CONTROLLER LOGIC
+controller_logic/
+*.pem
+*.der
+*.conf

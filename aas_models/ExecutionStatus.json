@@ -1,0 +1,25 @@
+{
+  "submodel": "ExecutionStatus",
+  "elements": [
+    {
+      "idShort": "CommandAcknowledged",
+      "value": true
+    },
+    {
+      "idShort": "ExecutionStarted",
+      "value": true
+    },
+    {
+      "idShort": "ExecutionCompleted",
+      "value": false
+    },
+    {
+      "idShort": "ErrorState",
+      "value": false
+    },
+    {
+      "idShort": "LastUpdate",
+      "value": "2025-05-29T16:35:40.164301Z"
+    }
+  ]
+}

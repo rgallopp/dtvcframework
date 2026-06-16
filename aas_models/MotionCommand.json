@@ -1,0 +1,44 @@
+{
+  "submodel": "MotionCommand",
+  "elements": [
+    {
+      "idShort": "CommandType",
+      "value": "MoveAbsJ"
+    },
+    {
+      "idShort": "JointTarget",
+      "value": [
+        -0.211,
+        -0.092,
+        -0.117,
+        -0.012,
+        29.973,
+        -0.089
+      ]
+    },
+    {
+      "idShort": "Speed",
+      "value": 200
+    },
+    {
+      "idShort": "Zone",
+      "value": "fine"
+    },
+    {
+      "idShort": "Tool",
+      "value": "tool2"
+    },
+    {
+      "idShort": "WorkObject",
+      "value": "table1"
+    },
+    {
+      "idShort": "CommandID",
+      "value": 1001
+    },
+    {
+      "idShort": "Timestamp",
+      "value": "2025-05-29T16:35:40.164052Z"
+    }
+  ]
+}

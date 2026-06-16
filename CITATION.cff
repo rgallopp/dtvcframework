@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this framework or any component of this repository in your research, please cite the associated paper using the metadata below."
+
+title: "Semantic Interoperability Framework for Digital Twin-Based Virtual Commissioning of Robotic Assembly in Industrialized Construction — Supplementary Repository"
+
+authors:
+  - family-names: Gallopp Ramírez
+    given-names: Ricardo A.
+    affiliation: "Center for Advanced Construction Information Modeling, Rinker School of Construction Management, University of Florida, USA"
+    email: rgalloppr@ufl.edu
+  - family-names: Alwisy
+    given-names: Aladdin
+    affiliation: "Smart IDC Lab, Rinker School of Construction Management, University of Florida, USA"
+  - family-names: Issa
+    given-names: Raja R. A.
+    affiliation: "Center for Advanced Construction Information Modeling, Rinker School of Construction Management, University of Florida, USA"
+
+repository-code: "https://github.com/rgalloppr/dtvcframework"
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: "2026-06-16"
+
+preferred-citation:
+  type: article
+  title: "Semantic interoperability framework for digital twin-based virtual commissioning of robotic assembly in industrialized construction"
+  authors:
+    - family-names: Gallopp Ramírez
+      given-names: Ricardo A.
+      affiliation: "Center for Advanced Construction Information Modeling, Rinker School of Construction Management, University of Florida, USA"
+      email: rgalloppr@ufl.edu
+    - family-names: Alwisy
+      given-names: Aladdin
+      affiliation: "Smart IDC Lab, Rinker School of Construction Management, University of Florida, USA"
+    - family-names: Issa
+      given-names: Raja R.A.
+      affiliation: "Center for Advanced Construction Information Modeling, Rinker School of Construction Management, University of Florida, USA"
+  journal: "Automation in Construction"
+  volume: "190"
+  year: 2026
+  article-number: "107095"
+  issn: "0926-5805"
+  doi: "10.1016/j.autcon.2026.107095"
+  url: "https://www.sciencedirect.com/science/article/pii/S0926580526003365"
+
+keywords:
+  - digital twin
+  - virtual commissioning
+  - Asset administration shell
+  - OPC UA
+  - ABB RAPID
+  - semantic interoperability
+  - industrialized construction
+  - BaSyx
+  - ISO 23247
+  - RAMI 4.0
+  - Industry 4.0
+  - robotic assembly
+  - software-in-the-loop

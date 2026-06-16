@@ -1,0 +1,28 @@
+{
+  "submodel": "JointTrajectoryLog",
+  "elements": [
+    {
+      "idShort": "CommandID",
+      "value": 1001
+    },
+    {
+      "idShort": "ExecutedJointTarget",
+      "value": [
+        -0.211,
+        -0.092,
+        -0.117,
+        -0.012,
+        29.973,
+        -0.089
+      ]
+    },
+    {
+      "idShort": "ExecutionTimestamp",
+      "value": "2025-05-29T16:35:40.164483Z"
+    },
+    {
+      "idShort": "Status",
+      "value": "Pending"
+    }
+  ]
+}
