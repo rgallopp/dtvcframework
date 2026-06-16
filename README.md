@@ -102,7 +102,7 @@ The following are withheld to protect ongoing research:
 
 - Full orchestration script with live OPC UA subscriptions and BaSyx REST calls
 - Real OPC UA endpoint URLs, namespace indices, and node mappings
-- Robot station file (`.rspag`) and USD scene assets
+- Robot station file and USD scene assets
 - cuRobo motion planning scripts
 
 ---
