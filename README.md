@@ -63,6 +63,7 @@ Initialize the server using Docker:
 ```bash
 docker pull eclipsebasyx/aas-server:latest
 docker run -p 8081:8081 eclipsebasyx/aas-server:latest
+```
 
 ### 2. AAS Repository
 
