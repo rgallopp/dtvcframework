@@ -19,7 +19,6 @@ env/
 Thumbs.db
 
 # IGNORE PRIVATE LAB ASSETS AND CONTROLLER LOGIC
-controller_logic/
 *.pem
 *.der
 *.conf
