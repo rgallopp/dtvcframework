@@ -58,7 +58,9 @@ This framework requires an Asset Administration Shell server to host the submode
 
 ### 1. AAS Server Initialization
 
-` ` `bash
+Initialize the server using Docker:
+
+```bash
 docker pull eclipsebasyx/aas-server:latest
 docker run -p 8081:8081 eclipsebasyx/aas-server:latest
 
