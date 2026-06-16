@@ -11,18 +11,19 @@ Supplementary repository for:
 
 ## Repository Structure
 
+```text
 dtvcframework/
 ├── README.md
 ├── LICENSE
 ├── CITATION.cff
 ├── aas_models/
-│ ├── MotionCommand.json  
-│ ├── ExecutionStatus.json  
-│ └── JointTrajectoryLog.json  
-├── src/
-│ └── baseline_logger.py  
-└── controller_logic/
-└── DT_Link.mod
+│   ├── ExecutionStatus.json
+│   ├── JointTrajectoryLog.json
+│   └── MotionCommand.json
+├── controller_logic/
+│   └── DT_Link.mod
+└── src/
+    └── baseline_logger.py
 
 ---
 
